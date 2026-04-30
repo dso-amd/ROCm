@@ -11,7 +11,7 @@ Open-source stack designed for GPU computation
 
 </div>
 
-# AMD ROCm™ software
+# AMD ROCm™ software 
 
 ROCm is an open-source stack, composed primarily of open-source software, designed for graphics
 processing unit (GPU) computation. ROCm consists of a collection of drivers, development tools, and
