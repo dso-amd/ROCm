@@ -162,4 +162,4 @@ below for contribution guidelines.
 - [TheRock](https://github.com/ROCm/TheRock/blob/main/CONTRIBUTING.md)
 - [ROCm documentation](https://rocm.docs.amd.com/en/latest/contribute/contributing.html)
 - [ROCm Systems](https://github.com/ROCm/rocm-systems/blob/develop/CONTRIBUTING.md)
-- [ROCm Libraries](https://github.com/ROCm/rocm-libraries/blob/develop/CONTRIBUTING.md)
+- [ROCm Libraries](https://github.com/ROCm/rocm-libraries/blob/develop/CONTRIBUTING.md) 
